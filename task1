@@ -1,0 +1,10 @@
+<?php
+$a = vb;
+$b=str_split($a);
+if (is_int($a) && is_numeric($a))
+{
+echo array_sum($b);
+} else { 
+    echo "Введено некорректное значение";
+}
+?>
