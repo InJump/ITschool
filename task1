@@ -1,5 +1,5 @@
 <?php
-$a = 432;
+$a = 6565;
 $b=str_split($a);
 if (is_int($a) && is_numeric($a))
 {
