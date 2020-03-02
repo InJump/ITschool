@@ -14,7 +14,7 @@
 <input type="text" size="20" name="email" required />
 </br>
 </br>
-<label>Ввведите логин: </label>
+<label>Ввведите Логин: </label>
 <input type="text" size="20" name="login" required />
 </br>
 </br>
